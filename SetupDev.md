@@ -10,10 +10,12 @@
 - [Banco de dados](#banco-de-dados);
 - [Vue.js](#);
 - Linguagem: Java, PHP, SQL;
+- GIT/GITHUB.
 
 **2. Para mobile**
 - [Android Studio](#android-studio);
 - [Linguagem: Java](#linguagem-java);
+- GIT/GITHUB.
 
 
 ### Vscode:
