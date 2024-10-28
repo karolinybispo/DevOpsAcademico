@@ -1,4 +1,4 @@
 # DevOpsAcademico
 
 ## Contexto:
-esse repositorio serve que armazenar o projeto do quarto bimestre. Esse projeto foi instruido a obter o WSL na maquina e deixar todo ambiente de desenvolvimento configurado nele. Alem disso, desenvolver uma nova "melhoria" do projeto integrador para materia de web e mobile. Por fim, tambem esta sendo utilizado o scrum durante as aulas.
+Este repositório foi criado para armazenar o projeto do quarto bimestre. Neste projeto, utilizaremos o WSL (Windows Subsystem for Linux) para configurar e armazenar todo o ambiente de desenvolvimento. O desenvolvimento inclui aplicações para web e Android, seguindo a metodologia Scrum, aplicada durante as aulas.
